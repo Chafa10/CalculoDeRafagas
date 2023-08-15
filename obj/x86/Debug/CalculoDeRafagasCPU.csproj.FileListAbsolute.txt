@@ -1,0 +1,8 @@
+C:\POO\CalculoDeRafagasCPU\CalculoDeRafagasCPU\bin\Debug\CalculoDeRafagasCPU.exe
+C:\POO\CalculoDeRafagasCPU\CalculoDeRafagasCPU\bin\Debug\CalculoDeRafagasCPU.pdb
+C:\POO\CalculoDeRafagasCPU\CalculoDeRafagasCPU\obj\x86\Debug\CalculoDeRafagasCPU.Form1.resources
+C:\POO\CalculoDeRafagasCPU\CalculoDeRafagasCPU\obj\x86\Debug\CalculoDeRafagasCPU.Properties.Resources.resources
+C:\POO\CalculoDeRafagasCPU\CalculoDeRafagasCPU\obj\x86\Debug\CalculoDeRafagasCPU.csproj.GenerateResource.Cache
+C:\POO\CalculoDeRafagasCPU\CalculoDeRafagasCPU\obj\x86\Debug\CalculoDeRafagasCPU.exe
+C:\POO\CalculoDeRafagasCPU\CalculoDeRafagasCPU\obj\x86\Debug\CalculoDeRafagasCPU.pdb
+C:\POO\CalculoDeRafagasCPU\CalculoDeRafagasCPU\obj\x86\Debug\CalculoDeRafagasCPU.csprojResolveAssemblyReference.cache
